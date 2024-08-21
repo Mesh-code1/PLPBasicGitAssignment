@@ -18,4 +18,8 @@ C:\Users\PC\PLPBasicGitAssignment>git commit -m "Add hello.txt with a greeting"
  1 file changed, 1 insertion(+)
  create mode 100644 hello.txt
 
-C:\Users\PC\PLPBasicGitAssignment>git push -u origin main
+C:\Users\PC\PLPBasicGitAssignment>git push -u origin master
+branch 'master' set up to track 'origin/master'.
+Everything up-to-date
+
+C:\Users\PC\PLPBasicGitAssignment>
